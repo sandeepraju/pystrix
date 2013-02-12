@@ -19,8 +19,6 @@ After some research, we found that what was available was either incompatible wi
 
 Detailed usage information is provided in the documentation, along with simple examples that should help to get anyone started.
 
----
-
 ##Documentation
 
 Every release will be packaged with full offline HTML documentation, which is the preferred way to look things up.
@@ -29,16 +27,14 @@ Online documentation is available at http://static.uguu.ca/projects/pystrix/doc/
 
 Inline documentation is complete and made readable by [reStructuredText](http://docutils.sourceforge.net/rst.html), so you'll never be completely lost.
 
----
-
 ##Credits
 
 [Ivrnet, inc.](http://www.ivrnet.com/)
 
-    + Initial development of pystrix was funded by Ivrnet
-    + Ivrnet is a software-as-a-service company that develops and operates intelligent software applications, delivered through traditional phone networks and over the Internet. These applications facilitate automated interaction, personalized communication between people, mass communication for disseminating information to thousands of people concurrently, and personalized communication between people and automated systems. Ivrnet's applications are accessible through nearly any form of communication technology, at any time, from anywhere in North America, via voice, phone, fax, email, texting, and the Internet. 
++ Initial development of pystrix was funded by Ivrnet
++ Ivrnet is a software-as-a-service company that develops and operates intelligent software applications, delivered through traditional phone networks and over the Internet. These applications facilitate automated interaction, personalized communication between people, mass communication for disseminating information to thousands of people concurrently, and personalized communication between people and automated systems. Ivrnet's applications are accessible through nearly any form of communication technology, at any time, from anywhere in North America, via voice, phone, fax, email, texting, and the Internet. 
 
 [Neil Tallim](http://uguu.ca/)
 
-   + Development lead
-   + Programming 
++ Development lead
++ Programming 
