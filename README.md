@@ -14,10 +14,13 @@ pystrix runs on [Python](http://python.org/) 2.6+ (intended to be compatible wit
 History
 
 After some research, we found that what was available was either incompatible with the architecture model we needed to work with ([Twisted](http://www.twistedmatrix.org/), while excellent for a great many things, isn't always the right choice), was targeting an outdated version of Asterisk, or had a very rigid, monolithic design. Identifying the [pyst](http://pyst.sourceforge.net/) and [py-asterisk](http://code.google.com/p/py-asterisk/) packages as being similar, but structurally incompatible, to what we wanted, pyst was chosen as the basis for this project, with a full rewrite of its AGI and AMI systems to provide a uniform-looking, highly modular design that incorporates logic and ideas from py-asterisk. The end result is a package that should satisfy anyone who was looking at either of its ancestors and that should be easier to extend as Asterisk continues to evolve.
+
 ##Usage
 
 Detailed usage information is provided in the documentation, along with simple examples that should help to get anyone started.
+
 ---
+
 ##Documentation
 
 Every release will be packaged with full offline HTML documentation, which is the preferred way to look things up.
@@ -25,7 +28,9 @@ Every release will be packaged with full offline HTML documentation, which is th
 Online documentation is available at http://static.uguu.ca/projects/pystrix/doc/, but please use the offline version when possible, since the online documentation is unstable and may not be available when you need it most.
 
 Inline documentation is complete and made readable by [reStructuredText](http://docutils.sourceforge.net/rst.html), so you'll never be completely lost.
+
 ---
+
 ##Credits
 
 [Ivrnet, inc.](http://www.ivrnet.com/)
